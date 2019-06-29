@@ -1,2 +1,2 @@
-# trabalhoLuengo
-Trabalho final da matéria de Laboratório de Computação I
+# Sistema gerenciamento de loja
+Programa desenvolvido para servir como gerenciamento de vendas em uma loja, trabalho final da matéria Laboratório de Computação I
