@@ -1,3 +1,4 @@
+// Arthur Santana
 #include <stdio.h>
 #include <stdlib.h>
 // Uso de expressão para que o uso de um system('clear') ou 'CLS' não diminua a compatibilidade
