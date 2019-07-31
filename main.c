@@ -1,8 +1,10 @@
-// Arthur Santana
+// Arthur Santana 
 #include <stdio.h>
 #include <stdlib.h>
-// Uso de expressão para que o uso de um system('clear') ou 'CLS' não diminua a compatibilidade
-// do código com outros SO, tal expressão foi encontrada em um tópico de fórum sobre programação
+/*
+ * Uso de expressão para que o uso de um system('clear') ou 'CLS' não diminua a compatibilidade
+ * do código com outros SO, tal expressão foi encontrada em um tópico de fórum sobre programação
+*/
 #ifdef _WIN32
 # define CLEAR_SCREEN system ("cls")
 #else
